@@ -21,4 +21,4 @@ In this tutorial, I'll demonstrate how to set up and use a VPN network on a pers
 - Sign Up For Proton Virtual Private Network
 - Test Virtual Private Network Connection
 
-<h2>Step 1</h2>
+<h2>STEP 1</h2>
