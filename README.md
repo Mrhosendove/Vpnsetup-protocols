@@ -3,7 +3,7 @@
 </p>
 
 <h2>VPN Proton</h2>
-In this tutorial, I'll demonstrate how to set up and use a VPN network on a personal computer.
+In this tutorial, I'll demonstrate how to set up and use a VPN network on a personal computer and a virture machine.
 
 <h2>Environments & Technologies Used</h2>
 
