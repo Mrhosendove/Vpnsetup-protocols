@@ -18,7 +18,13 @@ In this tutorial, I'll demonstrate how to set up and use a VPN network on a pers
 <h2>Setup & Objectives</h2>
 
 - Create a Virtual Machine in Azure
+- Browse WHATSMYIPADDRESS from your PC
+- Browse WHATSMYIPADDRESS from the VM
 - Sign Up For Proton Virtual Private Network
 - Test Virtual Private Network Connection
 
 <h2>STEP 1</h2>
+
+Create your Virtual Machine in Azure, and make sure its running. You'll need this for the remote desktop
+
+  ![VPN AZURE](https://github.com/user-attachments/assets/30c729b1-6d7c-4e0b-b91c-d182724c2634)
