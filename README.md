@@ -25,6 +25,10 @@ In this tutorial, I'll demonstrate how to set up and use a VPN network on a pers
 
 <h2>STEP 1</h2>
 
-Create your Virtual Machine in Azure, and make sure its running. You'll need this for the remote desktop
+Create a Virtual Machine in Azure and ensure it's running. You'll need this when we switch to the virtual machine.
 
   ![VPN AZURE](https://github.com/user-attachments/assets/30c729b1-6d7c-4e0b-b91c-d182724c2634)
+
+<h2>Step 2</h2>  
+
+Browse the internet at www.WHATSMYIPADDRESS.COM and pull up the home page.
